@@ -1,0 +1,12 @@
+.UserInput input {
+  background-color: lightpink;
+  border: none;
+  border-radius: 5px;
+  line-height: 40px;
+  padding: 5px;
+}
+
+.UserInput input:focus {
+  background-color: lightblue;
+  outline: none;
+}
